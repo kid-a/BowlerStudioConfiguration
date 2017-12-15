@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:FullHardwareLaunch.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "FullHardwareLaunch.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.25.0",
     "fontsize": 12.0,
